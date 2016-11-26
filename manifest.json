@@ -1,0 +1,7 @@
+{
+	"name" : "Blank Tab",
+	"description" : "This extensions provide about:blank-ish page, instead of chrome's new tab. (available at lelufg.github.io",
+	"version" : "1.0",
+	"chrome_url_overrides" : { "newtab" : "blanktab.html"},
+	"manifest_version" : 2
+}
