@@ -3,7 +3,7 @@ Hey! Blanktab is an Google Chrome extension that provides a "About:blank" page i
 
 ## But... That's it?
 
-Yep, just at it sounds. And no, it doesn't have any invisible ads or something that may warm your computer. And it's actually __really__ small packed (293 kb)
+Yep, just at it sounds. And no, it doesn't have any invisible ads or something that may warm your computer. And it's actually __really__ small packed (293 bytes)
 
 ## Can I make it better?
 
